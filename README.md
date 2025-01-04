@@ -1,5 +1,7 @@
 # Git Challenge: Collaboration and Version Control
 
+.![image](https://github.com/user-attachments/assets/f1c82e83-22f7-4bcf-8e43-9b5789a986de)
+
 Welcome to the **Git Collaboration Challenge**! This project is designed to help you practice collaboration and version control using Git and GitHub. Follow the steps below carefully to complete the challenge. The first participant whose pull request (PR) is reviewed and accepted wins!
 
 ---
