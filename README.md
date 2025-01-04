@@ -53,7 +53,11 @@ git push origin feature/your-name
 
 # Collaborate to resolve conflicts
 git fetch origin
+
 git merge origin/master
+
 git add .
+
 git commit -m "Resolve merge conflicts"
+
 git push origin feature/your-brancg-name
